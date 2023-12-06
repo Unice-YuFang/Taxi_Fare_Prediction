@@ -1,4 +1,7 @@
 # Predicting Taxi Fares with Supervised Machine Learning Models
+*Team Member: Unice(Yu-Fang) Liao, Jiacheng Li, Shizuka Takahashi, Pengru Lin*
+
+
 # Business Problem
 In the bustling metropolis, the iconic yellow taxis are more than just a means of transportation; they are a dynamic part of the urban fabric. However, there are many reports and concerns raised by travelers around the world that in some cases, these taxi drivers abusively overcharged the customers, preventing tourists from reaching the full happiness they spent in New York. Besides, taxi companies are facing more challenges in managing the price system and operation processes nowadays. To solve and challenge this unfair practice, our project dives into the heart of this vibrant taxi ecosystem, leveraging machine learning models to find the insights behind the dataset.
 
