@@ -37,6 +37,7 @@ TLC Trip Record Data - Yellow Taxi Trip Records. Direct access [here](https://ww
 <img width="255" alt="Screenshot 2023-12-06 at 5 49 51 PM" src="https://github.com/Unice-YuFang/Taxi_Fare_Prediction/assets/74975816/c09a2455-f9d2-4cd7-ba90-8a637b6b969a">
 
 
+
 <img width="660" alt="Screenshot 2023-12-06 at 5 51 12 PM" src="https://github.com/Unice-YuFang/Taxi_Fare_Prediction/assets/74975816/f1e2f337-6206-47e5-83b6-c36e2205278f">
 
 
