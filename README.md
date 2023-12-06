@@ -8,28 +8,28 @@ TLC Trip Record Data - Yellow Taxi Trip Records. Direct access [here](https://ww
 
 
 # Unsupervised Machine Learning Models
-## Random Forest Regressor
-## Gradient Boosting
-## XGBoost
-## Decision Tree Regressor
-## Linear Regression
-## Lasso
-## Ridge
+Random Forest Regressor
+Gradient Boosting
+XGBoost
+Decision Tree Regressor
+Linear Regression
+Lasso
+Ridge
 ![Unknown](https://github.com/Unice-YuFang/Taxi_Fare_Prediction/assets/74975816/4f4c119d-88b5-4847-9893-e8ae6964e6e2)
 
 
 
 # Hyper Parameter Search
-## Grid Search
-## Halving Search
-## Random Search
-## Bayes Search
+Grid Search
+Halving Search
+Random Search
+Bayes Search
 
 
 # Feature Importance
-## Random Forest Regressor
-## Gradient Boosting
-## Decision Tree Regressor
+Random Forest Regressor
+Gradient Boosting
+Decision Tree Regressor
 
 
 # Result
