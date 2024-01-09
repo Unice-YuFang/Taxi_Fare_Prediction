@@ -10,7 +10,7 @@ In the bustling metropolis, the iconic yellow taxis are more than just a means o
 TLC Trip Record Data - Yellow Taxi Trip Records. Direct access [here](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
 
-# Unsupervised Machine Learning Models
+# Supervised Machine Learning Models
 1. Random Forest Regressor
 2. Gradient Boosting
 3. XGBoost
